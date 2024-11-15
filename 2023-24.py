@@ -1,6 +1,6 @@
 import time as t
 import os
-import colorama
+import colorama 
 import pickle as p
 from colorama import Fore
 colorama.init(autoreset=True)
